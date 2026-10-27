@@ -1,0 +1,3 @@
+interface:
+  display_name: "Clarify First"
+  short_description: "不确定时先问，不要猜；暂停生成，聚焦澄清后再继续"
